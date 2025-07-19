@@ -1,9 +1,9 @@
 const projects = [
-  { title: 'E-Commerce Website', desc: 'Developed a responsive e-commerce website using HTML and CSS, featuring product listings, user-friendly layout, and intuitive navigation for a seamless shopping experience.' },
-  { title: 'ChatBot App', desc: 'Developed a chatbot application using Python, leveraging natural language processing to interact with users and respond intelligently to queries.' },
+  { title: 'TechFest Event Website', desc: 'Built a fully responsive, multi-section website using HTML, CSS, and JavaScript.Integrated Google Apps Script for backend form submission.Features include countdown timer, registration form, gallery, schedule, and more.' },
+  { title: 'Portfolio Website', desc: 'Developed a chatbot application using Python, leveraging natural language processing to interact with users and respond intelligently to queries.' },
 ];
 
-const skills = ['HTML', 'CSS', 'JavaScript', 'React', 'Tailwind', 'Python', 'Git'];
+const skills = ['C','C++','HTML', 'CSS', 'Java', 'JavaScript', 'Python'];
 
 const projectContainer = document.getElementById('projects');
 projects.forEach(p => {
